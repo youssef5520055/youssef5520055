@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://youssef-elsayed-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Portfolio-26D0A8?style=for-the-badge&logo=vercel&logoColor=06090B" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-26D0A8?style=for-the-badge&logo=vercel&logoColor=06090B" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/youssef-elsayed-543695344">
     <img src="https://img.shields.io/badge/LinkedIn-0D1216?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzI2RDBBOCI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMzIgMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43OU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn" />
@@ -26,7 +26,7 @@
   <a href="https://instagram.com/55joosiy">
     <img src="https://img.shields.io/badge/Instagram-0D1216?style=for-the-badge&logo=instagram&logoColor=26D0A8" alt="Instagram" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-__youssefelsayed-0D1216?style=for-the-badge&logo=discord&logoColor=26D0A8" alt="Discord: _youssefelsayed" />
+  <img src="https://img.shields.io/badge/Discord-__youssefelsayed-0D1216?style=for-the-badge&labelColor=131C21&logo=discord&logoColor=26D0A8" alt="Discord: _youssefelsayed" />
 </div>
 
 <br />
@@ -71,14 +71,14 @@ I'm **Youssef Elsayed**, a Computer Science student at **Misr International Univ
 
 ### Selected Repositories
 
-| Repository | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| [**`thenar`**](https://github.com/youssef5520055/thenar) | Fingerprint-gated behavioral smart safe handle using grip-force & motion dynamics *(MIU Graduation Project 2026)* | `TypeScript` · `Biometrics` · `Security` | [Code ↗](https://github.com/youssef5520055/thenar) |
-| [**`youssef-elsayed-portfolio`**](https://github.com/youssef5520055/youssef-elsayed-portfolio) | Hardened digital portfolio with custom WebGL2 shader, strict CSP/HSTS headers, CodeQL SAST & 21-credential vault | `Next.js 16` · `TypeScript` · `WebGL2` | [Live ↗](https://youssef-elsayed-portfolio.vercel.app) |
-| [**`app_voice_detection`**](https://github.com/youssef5520055/app_voice_detection) | Voice detection & speech recognition pipeline with intelligent audio signal processing | `Python` · `AI / Audio` | [Code ↗](https://github.com/youssef5520055/app_voice_detection) |
-| [**`billing-management-system`**](https://github.com/youssef5520055/billing-management-system) | Desktop billing, invoice automation, product sales & inventory tracking system for mobile retail stores | `Java` · `Desktop` · `OOP` | [Code ↗](https://github.com/youssef5520055/billing-management-system) |
-| [**`popstream`**](https://github.com/youssef5520055/popstream) | Child-friendly curated movie streaming platform with responsive catalog experience | `TypeScript` · `Web` | [Code ↗](https://github.com/youssef5520055/popstream) |
-| [**`phone-stock-market`**](https://github.com/youssef5520055/phone-stock-market) | Modular inventory, customer & sales management application built with structured OOP design | `TypeScript` · `Systems` | [Code ↗](https://github.com/youssef5520055/phone-stock-market) |
+| Repository | Description | Stack |
+| :--- | :--- | :--- |
+| [**`thenar`**](https://github.com/youssef5520055/thenar) | Fingerprint-gated behavioral smart safe handle using grip-force & motion dynamics *(MIU Graduation Project 2026)* | `TypeScript` · `Biometrics` · `Security` |
+| [**`youssef-elsayed-portfolio`**](https://github.com/youssef5520055/youssef-elsayed-portfolio) | Hardened portfolio with custom WebGL2 shader, strict CSP/HSTS headers, CodeQL SAST & 21-credential vault · [**Live&nbsp;↗**](https://youssef-elsayed-portfolio.vercel.app) | `Next.js 16` · `TypeScript` · `WebGL2` |
+| [**`app_voice_detection`**](https://github.com/youssef5520055/app_voice_detection) | Voice detection & speech recognition pipeline with intelligent audio signal processing | `Python` · `AI / Audio` |
+| [**`billing-management-system`**](https://github.com/youssef5520055/billing-management-system) | Desktop billing, invoice automation, product sales & inventory tracking system for mobile retail stores | `Java` · `Desktop` · `OOP` |
+| [**`popstream`**](https://github.com/youssef5520055/popstream) | Child-friendly curated movie streaming platform with responsive catalog experience | `TypeScript` · `Web` |
+| [**`phone-stock-market`**](https://github.com/youssef5520055/phone-stock-market) | Modular inventory, customer & sales management application built with structured OOP design | `TypeScript` · `Systems` |
 
 ---
 
@@ -86,12 +86,12 @@ I'm **Youssef Elsayed**, a Computer Science student at **Misr International Univ
 
 | Credential | Issuer | Verification |
 | :--- | :--- | :---: |
-| **CC — Certified in Cybersecurity** *(+ 5 Core Domains)* | ISC2 | [Vault ↗](https://youssef-elsayed-portfolio.vercel.app/#certifications) |
-| **AWS Academy Graduate — Cloud Architecting** *(60 hrs)* | Amazon Web Services | [Credly ↗](https://www.credly.com/go/gDGMM9v0) |
-| **Ethical Hacker** · **CCNA: Introduction to Networks** · **Intro to Cybersecurity** | Cisco Networking Academy | [Credly ↗](https://www.credly.com/badges/01be4d01-2d5d-401b-a7d7-59a68982d6e4) |
-| **Foundations of Cybersecurity** | Google via Coursera | [Coursera ↗](https://coursera.org/verify/ZW3R6BDVMNZZ) |
-| **Certified Kubernetes Security Specialist Masterclass** | Udemy | [Udemy ↗](https://ude.my/UC-faeef1b2-ab28-4db7-8b84-cf2c7d5f9458) |
-| **Enterprise Linux** · **Cybersecurity & Cloud Fundamentals** · **Design Thinking** | Red Hat · IBM · OPSWAT | [All 21 Certs ↗](https://youssef-elsayed-portfolio.vercel.app/#certifications) |
+| **CC — Certified in Cybersecurity** *(+ 5 Core Domains)* | ISC2 | [Vault&nbsp;↗](https://youssef-elsayed-portfolio.vercel.app/#certifications) |
+| **AWS Academy Graduate — Cloud Architecting** *(60 hrs)* | Amazon Web Services | [Credly&nbsp;↗](https://www.credly.com/go/gDGMM9v0) |
+| **Ethical Hacker** · **CCNA: Introduction to Networks** · **Intro to Cybersecurity** | Cisco Networking Academy | [Credly&nbsp;↗](https://www.credly.com/badges/01be4d01-2d5d-401b-a7d7-59a68982d6e4) |
+| **Foundations of Cybersecurity** | Google via Coursera | [Coursera&nbsp;↗](https://coursera.org/verify/ZW3R6BDVMNZZ) |
+| **Certified Kubernetes Security Specialist Masterclass** | Udemy | [Udemy&nbsp;↗](https://ude.my/UC-faeef1b2-ab28-4db7-8b84-cf2c7d5f9458) |
+| **Enterprise Linux** · **Cybersecurity & Cloud Fundamentals** · **Design Thinking** | Red Hat · IBM · OPSWAT | [All&nbsp;21&nbsp;Certs&nbsp;↗](https://youssef-elsayed-portfolio.vercel.app/#certifications) |
 
 ---
 
@@ -141,21 +141,21 @@ I'm **Youssef Elsayed**, a Computer Science student at **Misr International Univ
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=youssef5520055&show_icons=true&include_all_commits=true&bg_color=0D1216&border_color=1E2A30&title_color=26D0A8&icon_color=26D0A8&text_color=C9D5D0&border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=youssef5520055&show_icons=true&include_all_commits=true&bg_color=F7FAF9&border_color=D5E0DC&title_color=0A5243&icon_color=0A5243&text_color=1F2D28&border_radius=12" />
-    <img height="172" alt="Youssef Elsayed's GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=youssef5520055&show_icons=true&include_all_commits=true&bg_color=0D1216&border_color=1E2A30&title_color=26D0A8&icon_color=26D0A8&text_color=C9D5D0&border_radius=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=youssef5520055&show_icons=true&include_all_commits=true&disable_animations=true&bg_color=0D1216&border_color=1E2A30&title_color=26D0A8&icon_color=26D0A8&text_color=C9D5D0&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=youssef5520055&show_icons=true&include_all_commits=true&disable_animations=true&bg_color=F7FAF9&border_color=D5E0DC&title_color=0A5243&icon_color=0A5243&text_color=1F2D28&border_radius=12" />
+    <img height="172" alt="Youssef Elsayed's GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=youssef5520055&show_icons=true&include_all_commits=true&disable_animations=true&bg_color=0D1216&border_color=1E2A30&title_color=26D0A8&icon_color=26D0A8&text_color=C9D5D0&border_radius=12" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=youssef5520055&layout=compact&langs_count=6&bg_color=0D1216&border_color=1E2A30&title_color=26D0A8&text_color=C9D5D0&border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=youssef5520055&layout=compact&langs_count=6&bg_color=F7FAF9&border_color=D5E0DC&title_color=0A5243&text_color=1F2D28&border_radius=12" />
-    <img height="172" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=youssef5520055&layout=compact&langs_count=6&bg_color=0D1216&border_color=1E2A30&title_color=26D0A8&text_color=C9D5D0&border_radius=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=youssef5520055&layout=compact&langs_count=6&disable_animations=true&bg_color=0D1216&border_color=1E2A30&title_color=26D0A8&text_color=C9D5D0&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=youssef5520055&layout=compact&langs_count=6&disable_animations=true&bg_color=F7FAF9&border_color=D5E0DC&title_color=0A5243&text_color=1F2D28&border_radius=12" />
+    <img height="172" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=youssef5520055&layout=compact&langs_count=6&disable_animations=true&bg_color=0D1216&border_color=1E2A30&title_color=26D0A8&text_color=C9D5D0&border_radius=12" />
   </picture>
   <br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=youssef5520055&background=0D1216&border=1E2A30&stroke=1E2A30&ring=26D0A8&fire=26D0A8&currStreakNum=F0F4F2&sideNums=F0F4F2&currStreakLabel=26D0A8&sideLabels=A6B5B0&dates=7E908A&border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=youssef5520055&background=F7FAF9&border=D5E0DC&stroke=D5E0DC&ring=0A5243&fire=0A5243&currStreakNum=0B1114&sideNums=0B1114&currStreakLabel=0A5243&sideLabels=465852&dates=667872&border_radius=12" />
-    <img height="172" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=youssef5520055&background=0D1216&border=1E2A30&stroke=1E2A30&ring=26D0A8&fire=26D0A8&currStreakNum=F0F4F2&sideNums=F0F4F2&currStreakLabel=26D0A8&sideLabels=A6B5B0&dates=7E908A&border_radius=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=youssef5520055&disable_animations=true&background=0D1216&border=1E2A30&stroke=1E2A30&ring=26D0A8&fire=26D0A8&currStreakNum=F0F4F2&sideNums=F0F4F2&currStreakLabel=26D0A8&sideLabels=A6B5B0&dates=7E908A&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=youssef5520055&disable_animations=true&background=F7FAF9&border=D5E0DC&stroke=D5E0DC&ring=0A5243&fire=0A5243&currStreakNum=0B1114&sideNums=0B1114&currStreakLabel=0A5243&sideLabels=465852&dates=667872&border_radius=12" />
+    <img height="172" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=youssef5520055&disable_animations=true&background=0D1216&border=1E2A30&stroke=1E2A30&ring=26D0A8&fire=26D0A8&currStreakNum=F0F4F2&sideNums=F0F4F2&currStreakLabel=26D0A8&sideLabels=A6B5B0&dates=7E908A&border_radius=12" />
   </picture>
 </div>
 
