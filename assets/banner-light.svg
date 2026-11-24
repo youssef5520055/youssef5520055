@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none">
+  <defs>
+    <linearGradient id="bg-light" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F7FAF9"/>
+      <stop offset="60%" stop-color="#F1F7F5"/>
+      <stop offset="100%" stop-color="#E6F2EE"/>
+    </linearGradient>
+    <radialGradient id="glow-accretion-light" cx="930" cy="152" r="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0A5243" stop-opacity="0.12"/>
+      <stop offset="55%" stop-color="#26D0A8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#F7FAF9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rim-top-light" x1="120" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0A5243" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#0A5243" stop-opacity="0.45"/>
+      <stop offset="70%" stop-color="#26D0A8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0A5243" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dot-grid-light" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#0B1114" fill-opacity="0.06"/>
+    </pattern>
+    <clipPath id="frame-clip-light">
+      <rect x="1" y="1" width="1198" height="298" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame-clip-light)">
+    <rect width="1200" height="300" fill="url(#bg-light)"/>
+    <rect width="1200" height="300" fill="url(#dot-grid-light)"/>
+    <rect width="1200" height="300" fill="url(#glow-accretion-light)"/>
+
+    <!-- Engraved Orbital Accretion Motif (Light Ink) -->
+    <g transform="translate(948, 154) rotate(-13)">
+      <ellipse cx="0" cy="0" rx="235" ry="62" stroke="#0A5243" stroke-opacity="0.14" stroke-width="1"/>
+      <ellipse cx="0" cy="0" rx="205" ry="54" stroke="#0B1114" stroke-opacity="0.1" stroke-width="0.9" stroke-dasharray="18 8 4 8"/>
+      <ellipse cx="0" cy="0" rx="174" ry="45" stroke="#0A5243" stroke-opacity="0.24" stroke-width="1.15"/>
+      <ellipse cx="0" cy="0" rx="144" ry="37" stroke="#0B1114" stroke-opacity="0.14" stroke-width="1" stroke-dasharray="28 6"/>
+      <ellipse cx="0" cy="0" rx="116" ry="29" stroke="#0A5243" stroke-opacity="0.34" stroke-width="1.2"/>
+      <ellipse cx="0" cy="0" rx="90" ry="22" stroke="#0B1114" stroke-opacity="0.18" stroke-width="1"/>
+      <ellipse cx="0" cy="0" rx="68" ry="16" stroke="#0A5243" stroke-opacity="0.5" stroke-width="1.35"/>
+      <circle cx="0" cy="0" r="34" fill="#0B1114" stroke="#0A5243" stroke-opacity="0.65" stroke-width="1.4"/>
+      <circle cx="0" cy="0" r="39" stroke="#0B1114" stroke-opacity="0.16" stroke-width="0.8"/>
+      <circle cx="0" cy="0" r="24" fill="#06090B"/>
+    </g>
+
+    <line x1="726" y1="34" x2="726" y2="266" stroke="#0B1114" stroke-opacity="0.07" stroke-width="1"/>
+
+    <!-- Top-Left Eyebrow -->
+    <line x1="56" y1="54" x2="84" y2="54" stroke="#0A5243" stroke-width="1.5"/>
+    <text x="96" y="58" fill="#0A5243" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.6" font-weight="600">
+      // BUILDING SECURE, INTELLIGENT SYSTEMS
+    </text>
+
+    <!-- Top-Right Status Pill -->
+    <g transform="translate(942, 34)">
+      <rect x="0" y="0" width="206" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.92" stroke="#0A5243" stroke-opacity="0.28" stroke-width="1"/>
+      <circle cx="18" cy="14" r="3.5" fill="#059669"/>
+      <text x="30" y="18" fill="#2F423C" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.2" letter-spacing="1.4" font-weight="600">
+        SYS.STATUS // SECURE
+      </text>
+    </g>
+
+    <!-- Main Identity Lockup -->
+    <g transform="translate(56, 86)">
+      <rect x="1" y="1" width="76" height="76" rx="16" fill="#FFFFFF" stroke="#0B1114" stroke-opacity="0.2" stroke-width="1.5"/>
+      <rect x="7" y="7" width="64" height="64" rx="11.5" stroke="#0A5243" stroke-opacity="0.38" stroke-width="1.15"/>
+      <path d="M62.5 13L65 15.5L62.5 18L60 15.5L62.5 13Z" fill="#0A5243"/>
+      <path d="M20 23.5H26.6M36.4 23.5H42.4M23.2 23.5L31.4 38.6L39.6 23.5M31.4 38.6V55M26.9 55H35.9" stroke="#0B1114" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M46 23.5H58.4M46 23.5V55M46 39H56M46 55H58.8M58.4 23.5V26.7M58.8 55V51.8" stroke="#0A5243" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <line x1="99" y1="8" x2="99" y2="70" stroke="#0B1114" stroke-opacity="0.16" stroke-width="1"/>
+
+      <text x="122" y="47" fill="#0B1114" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.6">
+        Youssef <tspan font-style="italic" fill="#0A5243">Elsayed</tspan>
+      </text>
+      <text x="123" y="74" fill="#3B4D47" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" font-weight="500" letter-spacing="0.2">
+        Software Engineer &amp; Cybersecurity Specialist
+      </text>
+    </g>
+
+    <!-- Bottom Hairline & Metadata Strip -->
+    <line x1="56" y1="218" x2="684" y2="218" stroke="#0B1114" stroke-opacity="0.1" stroke-width="1"/>
+    <text x="56" y="246" fill="#2F423C" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.8">
+      CS @ Misr International University
+      <tspan fill="#0A5243"> · </tspan>
+      Cairo, Egypt
+      <tspan fill="#0A5243"> · </tspan>
+      Systems / Security / AI
+    </text>
+    <text x="56" y="269" fill="#52655F" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4">
+      ISC2 CC  ·  AWS CLOUD ARCHITECTING  ·  CISCO CCNA &amp; ETHICAL HACKER  ·  RED HAT  ·  IBM
+    </text>
+
+    <rect x="0" y="0" width="1200" height="1.5" fill="url(#rim-top-light)"/>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="18" stroke="#0B1114" stroke-opacity="0.14" stroke-width="1.5"/>
+</svg>

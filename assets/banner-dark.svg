@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" fill="none">
+  <defs>
+    <linearGradient id="bg-dark" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#06090B"/>
+      <stop offset="58%" stop-color="#0A1014"/>
+      <stop offset="100%" stop-color="#071815"/>
+    </linearGradient>
+    <radialGradient id="glow-accretion" cx="930" cy="152" r="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#26D0A8" stop-opacity="0.22"/>
+      <stop offset="48%" stop-color="#0A5243" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#06090B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-brass" cx="180" cy="40" r="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D4A359" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#06090B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rim-top" x1="120" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#26D0A8" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#26D0A8" stop-opacity="0.55"/>
+      <stop offset="70%" stop-color="#F0F4F2" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#26D0A8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dot-grid-dark" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#F0F4F2" fill-opacity="0.065"/>
+    </pattern>
+    <clipPath id="frame-clip-dark">
+      <rect x="1" y="1" width="1198" height="298" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame-clip-dark)">
+    <!-- Canvas & Atmospheric Depth -->
+    <rect width="1200" height="300" fill="url(#bg-dark)"/>
+    <rect width="1200" height="300" fill="url(#dot-grid-dark)"/>
+    <rect width="1200" height="300" fill="url(#glow-accretion)"/>
+    <rect width="1200" height="300" fill="url(#glow-brass)"/>
+
+    <!-- Engraved Orbital Accretion Motif (Right Side) -->
+    <g transform="translate(948, 154) rotate(-13)">
+      <ellipse cx="0" cy="0" rx="235" ry="62" stroke="#26D0A8" stroke-opacity="0.11" stroke-width="1"/>
+      <ellipse cx="0" cy="0" rx="205" ry="54" stroke="#F0F4F2" stroke-opacity="0.08" stroke-width="0.9" stroke-dasharray="18 8 4 8"/>
+      <ellipse cx="0" cy="0" rx="174" ry="45" stroke="#26D0A8" stroke-opacity="0.22" stroke-width="1.15"/>
+      <ellipse cx="0" cy="0" rx="144" ry="37" stroke="#F0F4F2" stroke-opacity="0.14" stroke-width="1" stroke-dasharray="28 6"/>
+      <ellipse cx="0" cy="0" rx="116" ry="29" stroke="#26D0A8" stroke-opacity="0.34" stroke-width="1.2"/>
+      <ellipse cx="0" cy="0" rx="90" ry="22" stroke="#F0F4F2" stroke-opacity="0.22" stroke-width="1"/>
+      <ellipse cx="0" cy="0" rx="68" ry="16" stroke="#26D0A8" stroke-opacity="0.52" stroke-width="1.35"/>
+      <!-- Subtle Photon Ring & Singularity Core -->
+      <circle cx="0" cy="0" r="34" fill="#06090B" stroke="#26D0A8" stroke-opacity="0.55" stroke-width="1.4"/>
+      <circle cx="0" cy="0" r="39" stroke="#F0F4F2" stroke-opacity="0.16" stroke-width="0.8"/>
+      <circle cx="0" cy="0" r="24" fill="#030507"/>
+    </g>
+
+    <!-- Subtle Vertical Architectural Rule -->
+    <line x1="726" y1="34" x2="726" y2="266" stroke="#F0F4F2" stroke-opacity="0.06" stroke-width="1"/>
+
+    <!-- Top-Left Eyebrow -->
+    <line x1="56" y1="54" x2="84" y2="54" stroke="#26D0A8" stroke-width="1.5"/>
+    <text x="96" y="58" fill="#26D0A8" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.6">
+      // BUILDING SECURE, INTELLIGENT SYSTEMS
+    </text>
+
+    <!-- Top-Right Status Pill -->
+    <g transform="translate(942, 34)">
+      <rect x="0" y="0" width="206" height="28" rx="14" fill="#0D1519" fill-opacity="0.88" stroke="#26D0A8" stroke-opacity="0.32" stroke-width="1"/>
+      <circle cx="18" cy="14" r="3.5" fill="#34D399"/>
+      <text x="30" y="18" fill="#A6B5B0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.2" letter-spacing="1.4">
+        SYS.STATUS // SECURE
+      </text>
+    </g>
+
+    <!-- Main Identity Lockup: Sculpted YE Crest + Editorial Wordmark -->
+    <g transform="translate(56, 86)">
+      <!-- YE Sculpted Monogram Crest -->
+      <rect x="1" y="1" width="76" height="76" rx="16" fill="#0B1114" stroke="#F0F4F2" stroke-opacity="0.24" stroke-width="1.5"/>
+      <rect x="7" y="7" width="64" height="64" rx="11.5" stroke="#26D0A8" stroke-opacity="0.4" stroke-width="1.15"/>
+      <path d="M62.5 13L65 15.5L62.5 18L60 15.5L62.5 13Z" fill="#26D0A8"/>
+      <path d="M20 23.5H26.6M36.4 23.5H42.4M23.2 23.5L31.4 38.6L39.6 23.5M31.4 38.6V55M26.9 55H35.9" stroke="#F0F4F2" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M46 23.5H58.4M46 23.5V55M46 39H56M46 55H58.8M58.4 23.5V26.7M58.8 55V51.8" stroke="#26D0A8" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <!-- Divider -->
+      <line x1="99" y1="8" x2="99" y2="70" stroke="#F0F4F2" stroke-opacity="0.16" stroke-width="1"/>
+
+      <!-- Editorial Serif Name -->
+      <text x="122" y="47" fill="#F0F4F2" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="-0.6">
+        Youssef <tspan font-style="italic" fill="#26D0A8">Elsayed</tspan>
+      </text>
+      <!-- Role Line -->
+      <text x="123" y="74" fill="#B5C4BF" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" font-weight="500" letter-spacing="0.2">
+        Software Engineer &amp; Cybersecurity Specialist
+      </text>
+    </g>
+
+    <!-- Bottom Hairline & Metadata Strip -->
+    <line x1="56" y1="218" x2="684" y2="218" stroke="#F0F4F2" stroke-opacity="0.09" stroke-width="1"/>
+    <text x="56" y="246" fill="#A6B5B0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.8">
+      CS @ Misr International University
+      <tspan fill="#26D0A8"> · </tspan>
+      Cairo, Egypt
+      <tspan fill="#26D0A8"> · </tspan>
+      Systems / Security / AI
+    </text>
+    <text x="56" y="269" fill="#7E908A" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4">
+      ISC2 CC  ·  AWS CLOUD ARCHITECTING  ·  CISCO CCNA &amp; ETHICAL HACKER  ·  RED HAT  ·  IBM
+    </text>
+
+    <!-- Top Specular Rim -->
+    <rect x="0" y="0" width="1200" height="1.5" fill="url(#rim-top)"/>
+  </g>
+
+  <!-- Outer Precision Frame -->
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="18" stroke="#F0F4F2" stroke-opacity="0.13" stroke-width="1.5"/>
+</svg>
